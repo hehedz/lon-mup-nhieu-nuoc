@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ảnh của tôi</title>
+  </head>
+  <body>
+    <h1>Ảnh của tôi</h1>
+    <img src="tên-file-ảnh-1" width="300"><br>
+    <img src="tên-file-ảnh-2" width="300">
+  </body>
+</html>
